@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinkoul1234&label=Profile%20views&color=0e75b6&style=flat" alt="jatinkoul1234" /> </p>
 
-- 🌱 I’m currently learning **Data Science&Analytics**
+🌱 I’m currently learning **Data Science&Analytics**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/jatinkoul](https://linktr.ee/jatinkoul)
+  👨‍💻 All of my projects are available at [https://linktr.ee/jatinkoul](https://linktr.ee/jatinkoul)
 
-- 💬 Ask me about **AI&ML , Python , DataScience**
+  💬 Ask me about **AI&ML , Python , DataScience**
 
-- 📫 How to reach me **kouljatin8@gmail.com**
+  📫 How to reach me **kouljatin8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xKH8dUjpm1P8GygVlVZ3TGfZfRiW-E76/view?usp=sharing](https://drive.google.com/file/d/1xKH8dUjpm1P8GygVlVZ3TGfZfRiW-E76/view?usp=sharing)
+  📄 Know about my experiences [https://drive.google.com/file/d/1xKH8dUjpm1P8GygVlVZ3TGfZfRiW-E76/view?usp=sharing](https://drive.google.com/file/d/1xKH8dUjpm1P8GygVlVZ3TGfZfRiW-E76/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
