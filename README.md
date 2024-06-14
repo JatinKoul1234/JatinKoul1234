@@ -1,4 +1,5 @@
-<p img align="center" alt="coding" width="720" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx5bXBmNWthdjZ1cjk0OW04M2NwejJ5dnJmeXEyNXY2ZjgxNnp1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2siFL8PCUm5ucFBuS/giphy.gif">
+<p align="center">
+  <img alt="coding" width="630" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx5bXBmNWthdjZ1cjk0OW04M2NwejJ5dnJmeXEyNXY2ZjgxNnp1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2siFL8PCUm5ucFBuS/giphy.gif">
 <h1 align="center">Hi 👋, I'm Jatin Koul</h1>
 <h3 align="center">Diving Deep into Data Science with a Passion for Discovery</h3>
 
