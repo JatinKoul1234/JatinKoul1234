@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kouljatin8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LacOoK5U07NCjHTxUAgQWaHu2pl2Tpfv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Q65WH9w64OfHPi9XdZFOCrPOgk-KxnUP/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
